@@ -27,7 +27,7 @@ End-to-end traffic object detection system with two components:
 
 ## Demo
 
-https://github.com/itsRenuka22/ObjectDetection/assets/PLACEHOLDER/ObjectDetection_Demo.mp4
+https://github.com/user-attachments/assets/f8d15ab5-52e1-4165-93a2-de3f197f425f
 
 ### Side-by-Side Model Comparison
 ![Model Comparison](results/comparison.png)
