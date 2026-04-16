@@ -30,6 +30,10 @@ frontend/next-env.d.ts
 # Claude Code internal tooling (recreated on use)
 .claude/
 
+# Large media files (host on GitHub CDN via issue upload instead)
+*.mp4
+*.mov
+
 # Misc
 *.pem
 npm-debug.log*
