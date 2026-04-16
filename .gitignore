@@ -1,0 +1,35 @@
+# Models (large binaries — download via notebook)
+*.pt
+*.onnx
+*.engine
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# Datasets
+*.zip
+dataset/
+dataset_fresh/
+
+# Frontend build artifacts
+frontend/node_modules/
+frontend/.next/
+frontend/next-env.d.ts
+
+# Environment files (may contain API URLs or tokens)
+.env
+.env.local
+.env*.local
+
+# macOS (recreated automatically by Finder)
+.DS_Store
+
+# Claude Code internal tooling (recreated on use)
+.claude/
+
+# Misc
+*.pem
+npm-debug.log*
